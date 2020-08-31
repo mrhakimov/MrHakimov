@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋 I am Muhammadjon and I am:
+
+- :computer: currently working on [TikSta](https://play.google.com/store/apps/details?id=com.tiksta.test4) with [@AmirjonQodirov](https://github.com/AmirjonQodirov)
+- :man_student: studying at [National Research ITMO University](https://en.itmo.ru/en/) and [Computer Science Center](https://compscicenter.ru/)
+- :grin: learning **Kotlin** and **GoLang**
+- :heart_eyes: fascinated about concurrent programming
 
 <!--
 **MrHakimov/MrHakimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
