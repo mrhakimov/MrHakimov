@@ -1,10 +1,10 @@
 ## Hi there 👋 I am Muhammadjon and I am:
 
-- :computer: currently doing an internship as a **Go Backend Developer** at [@yandex](https://github.com/yandex)
+- :computer: currently working as a **Junior Python Backend Developer** at [@yandex](https://github.com/yandex)
 - :man_student: studying at [National Research ITMO University](https://en.itmo.ru/en/) and [Computer Science Center](https://compscicenter.ru/)
-- :grin: learning **GoLang** and **Kotlin**
-- :page_with_curl: running [channel](https://t.me/foogler) about tech on Telegram
-- :heart_eyes: fascinated about concurrent programming
+- :grin: learning **GoLang** and **Distributed Systems**
+- :page_with_curl: running [channel](https://t.me/foogler) about FAANG on Telegram
+- :heart_eyes: fascinated about distributed systems and cloud computing
 
 <!--
 **MrHakimov/MrHakimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
