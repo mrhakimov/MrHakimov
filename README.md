@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Muhammadjon and I am:
 
-- :computer: **Backend Developer** at [@yandex](https://github.com/yandex), worked at Cloud Data Transfer and Ad Agency Cabinet teams
+- :computer: **Backend Developer** at [@yandex](https://github.com/yandex), worked at Cloud's Data Transfer and Ad's Agency Cabinet teams
 - :man_student: studying at [National Research ITMO University](https://en.itmo.ru/en/) and [Computer Science Center](https://compscicenter.ru/)
 - :grin: learning **GoLang** and **Distributed Systems**
 - :page_with_curl: running [channel](https://t.me/foogler) about FAANG on Telegram
